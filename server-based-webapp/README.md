@@ -8,9 +8,6 @@ A production‑style, highly available web application on AWS using a VPC across
 - Dynamic scaling policies (scale out/in) based on CPU utilization
 - CloudWatch for monitoring and alarms; SNS for email notifications
 
-> Add your diagram image to `screenshots/architecture.png` and embed it below.
-
-![Architecture](screenshots/architecture.png)
 
 ## Implementation (Condensed)
 1. **VPC & Networking**
